@@ -4,7 +4,7 @@ HospitalRun is made up of several repositories:
 
 | Repository | Description | Technologies | Link to Repo-specific Contributing Guide |
 | --- | --- | --- | --- |
-| frontend | Frontend React appllication | [React](https://reactjs.org/), [Redux](https://react-redux.js.org/), [PouchDB](https://pouchdb.com/), [Jest](https://jestjs.io/) | [Link](https://github.com/HospitalRun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md) |
+| frontend | Frontend React appllication | [React](https://reactjs.org/), [React Query](https://react-query.tanstack.com/) (formerly: [Redux](https://react-redux.js.org/)), [PouchDB](https://pouchdb.com/), [Jest](https://jestjs.io/) | [Link](https://github.com/HospitalRun/hospitalrun-frontend/blob/master/.github/CONTRIBUTING.md) |
 | components | React building block components | [React](https://reactjs.org/), [TSDX](https://github.com/jaredpalmer/tsdx), [Jest](https://jestjs.io/), [Storybook](https://storybook.js.org/) | [Link](https://github.com/HospitalRun/components/blob/master/.github/CONTRIBUTING.md) |
 | server | Host the service | [NodeJs](https://nodejs.org/en/), [Fastify](https://www.fastify.io/), [CouchDB](https://couchdb.apache.org/) | [Link](https://github.com/HospitalRun/hospitalrun-server/blob/master/.github/CONTRIBUTING.md) |
 | core | Host core models | [Typebox](https://github.com/sinclairzx81/typebox) | [Link](https://github.com/HospitalRun/hospitalrun-core/blob/master/.github/CONTRIBUTING.md) |
